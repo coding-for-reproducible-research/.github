@@ -12,4 +12,4 @@ We are always looking for passionate individuals to join our mission. Whether yo
 👩‍💻 **Useful Resources**  
 To help you get started, here are some key resources:
 - **Documentation:** [Our Home Website](https://coding-for-reproducible-research.github.io/CfRR_Courses/home_page.html)
-- **Community Guidelines:** [Code of Conduct]([https://github.com/your-organization/your-repo/blob/main/CODE_OF_CONDUCT.md](https://coding-for-reproducible-research.github.io/CfRR_Courses/cfrr_program_details/code_of_conduct.html))
+- **Community Guidelines:** [Code of Conduct](https://coding-for-reproducible-research.github.io/CfRR_Courses/cfrr_program_details/code_of_conduct.html)
